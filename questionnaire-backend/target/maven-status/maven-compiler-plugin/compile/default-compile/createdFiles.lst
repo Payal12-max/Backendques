@@ -1,0 +1,8 @@
+com\ayurveda\questionnaire\config\DataInitializer.class
+com\ayurveda\questionnaire\service\QuestionnaireService.class
+com\ayurveda\questionnaire\repository\PatientProfileRepository.class
+com\ayurveda\questionnaire\model\OnboardingQuestion.class
+com\ayurveda\questionnaire\repository\OnboardingQuestionRepository.class
+com\ayurveda\questionnaire\QuestionnaireBackendApplication.class
+com\ayurveda\questionnaire\controller\QuestionnaireController.class
+com\ayurveda\questionnaire\model\PatientProfile.class
